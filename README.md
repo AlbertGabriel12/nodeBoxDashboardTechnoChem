@@ -1,5 +1,5 @@
 # NodeBox Dashboard TechnoChem
 
-para executar o projeto use:
-npm install
+para executar o projeto use: <br>
+npm install <br>
 npm run dev
