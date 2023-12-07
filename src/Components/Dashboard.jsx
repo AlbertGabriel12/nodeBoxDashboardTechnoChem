@@ -6,7 +6,7 @@ import Title from "./Title";
 
 const styles = {
     header: {
-        width: "100%",
+        maxWidth: "100%",
         height: 64,
         backgroundColor: mainColors.primaryColor,
         display: "flex",
